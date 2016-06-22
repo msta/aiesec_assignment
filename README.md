@@ -12,7 +12,7 @@ The API should provide the following functionality:
 3. Publish a note to a topic
 4. Receive a published note as a subscriber
 
-The subscribers can receive notes either via push or pull - you decide!
+Only write the API. You should write a few tests to make sure it works! (But we won't look at them)
 
 ## Assignment Rules ##
 
