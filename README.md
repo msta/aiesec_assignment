@@ -10,7 +10,7 @@ The API should provide the following functionality:
 1. Register/Unregister a subscriber to a topic - can be a string
 2. Register/Unregister a publisher to a topic 
 3. Publish a note to a topic
-4. Write out all notes for a specific topic
+4. Receive a published note as a subscriber
 
 The subscribers can receive notes either via push or pull - you decide!
 
