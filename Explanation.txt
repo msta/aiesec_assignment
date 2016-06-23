@@ -1,0 +1,3 @@
+I wrote using Ruby on Rails because I think it have a fast setup and it's way productive. The language and some caracteristics of the 
+framework (DRY and Convention over Configuration) help to write a clean and meaningful code. The IRB (the Rails command line) also helps
+to change and test the code very quickly. Besides this, it's the tool that I am most familiar in the moment.
