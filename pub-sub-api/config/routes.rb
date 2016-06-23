@@ -1,7 +1,11 @@
 Rails.application.routes.draw do
-  get 'user/subscribe'
+  post 'user/:id/subscribe', to:'user#subscribe'
 
-  get 'user/unsubscribe'
+  post 'user/:id/unsubscribe', to:'user#unsubscribe'
+
+  post 'user/:id/post',  to:'user#post'
+
+  get 'user/:id/notes',  to:'user#notes'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

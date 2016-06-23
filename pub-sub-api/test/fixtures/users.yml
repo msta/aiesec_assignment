@@ -1,7 +1,13 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  name: MyString
+unsubscribed:
+  id: 1
+  name: "Unsubscribed User"
 
-two:
-  name: MyString
+subscribed:
+  id: 2
+  name: "Subscribed User"
+
+user_with_notes:
+  id: 3
+  name: "User with notes"
