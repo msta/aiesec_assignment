@@ -5,7 +5,7 @@
 This assignment is meant to give us at Archii an idea of who you are as a developer and how you go about solving a problem.
 Interviewing candidates from afar is hard - if you think doing the assignment is unfair, let us know! We do not intend to use the assignment for anything nor do we expect production grade code. 
 Don't prepare for the assignment - use the technology you have available and know well,.
-
+And finally, if you have seen this assignment before, don't worry! Just make sure to read the important section. 
 
 ## Specification ##
 
@@ -30,7 +30,7 @@ The assignment must comply with these rules:
 3. The code and configuration must be concise and readable. We dont care about your choice of technology - you can even use an existing publisher-subscribe framework if that is easy for you! What we care about is solving the challenge with the tools that you like to use!
 4. Don't overdo the documentation. If the code is nice it is easy to see what is happening.
 
-## IMPORTANT ## 
+## IMPORTANT
 Please use the last 10 minutes of the assignment to write a few lines about why you chose the technologies you've used.  
 e.g.: "I write in Python because it's easy to prototype...", "I used this framework because it's superior to xxx".
 Remember this as a general rule of programming, and certainly you shouldn't forget it here!
