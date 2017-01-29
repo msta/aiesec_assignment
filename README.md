@@ -29,7 +29,10 @@ The assignment must comply with these rules:
 2. The assignment should take no longer than 2-3 hours: If you have used the alloted hours just hand-in what you got! We would rather see a few good lines of code than a hurried mess. On the other hand, if you think this is easy and is finished in 30 mins, be creative! Use the timeslot to show what you got
 3. The code and configuration must be concise and readable. We dont care about your choice of technology - you can even use an existing publisher-subscribe framework if that is easy for you! What we care about is solving the challenge with the tools that you like to use!
 4. Don't overdo the documentation. If the code is nice it is easy to see what is happening.
-5. Please use the last 5 minutes of the assignment to write a few lines about why you chose the technologies you've used.  
-e.g.: "I write in Python because it's easy to prototype...", "I used this framework because it's superior to xxx"
+
+## IMPORTANT ## 
+Please use the last 10 minutes of the assignment to write a few lines about why you chose the technologies you've used.  
+e.g.: "I write in Python because it's easy to prototype...", "I used this framework because it's superior to xxx".
+Remember this as a general rule of programming, and certainly you shouldn't forget it here!
 
 
