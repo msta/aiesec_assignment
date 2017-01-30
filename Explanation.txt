@@ -1,0 +1,24 @@
+I wrote using Ruby on Rails because I think it have a fast setup and it's way productive. The language and some caracteristics of the 
+framework (DRY and Convention over Configuration) help to write a clean and meaningful code. The IRB (the Rails command line) also helps
+to change and test the code very quickly. Besides this, it's the tool that I am most familiar in the moment.
+
+A note about the Publish-Subscribe implementation:
+
+It's done using a library called Wisper (https://github.com/krisleech/wisper).
+When a post is submitted through the controller (and is successful) a signal (:post_created) is sent
+(through the 'publish' method) to whom has subscribed to it, who have to implement the signal callback. 
+
+The subscription it's done through a simple line of code:
+
+`Wisper.subscribe(Listener.new)`
+
+Some links to the code:
+
+Subscription
+https://github.com/feliupe/aiesec_assignment/blob/master/pub-sub-api/config/initializers/wisper.rb 
+
+Listener implementation
+https://github.com/feliupe/aiesec_assignment/blob/master/pub-sub-api/app/listener/listener.rb
+
+Controller
+https://github.com/feliupe/aiesec_assignment/blob/master/pub-sub-api/app/controllers/user_controller.rb
