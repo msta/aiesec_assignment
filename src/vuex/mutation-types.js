@@ -1,0 +1,2 @@
+export const SET_PUBLISH_MSG   = 'SET_PUBLISH_MSG';
+export const SET_SUBSCRIBE_MSG = 'SET_SUBSCRIBE_MSG';
