@@ -1,0 +1,1 @@
+I selected Vue js for the assignment. The reason for selecting Vue js is Vuex store. Since publish subsriber pattern is reactive like the observer pattern, So I wanted to use vuex store due to its reactivity. Moreover, I was comfortable to use Vue js.
